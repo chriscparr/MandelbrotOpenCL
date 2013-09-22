@@ -1,0 +1,9 @@
+This is just a simple openCL app that uses the parallel processing power of GPUs and other openCL devices
+to generate images of the mandelbrot set.
+
+Its purpose was part of a larger project to compare processing power between several sequential and parallel
+platforms but I hope it will help someone, somewhere?
+
+It was designed to work on an nvidia platform, but should work on other platforms with minimal tweaking.
+
+send me a message on github (chriscparr) if you would like any more info.
